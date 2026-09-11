@@ -12,7 +12,7 @@
 
 1. У Lampa відкрий **Налаштування → Розширення / Плагіни**.
 2. Додай плагін:
-https://raw.githubusercontent.com/maxbox39/movie-tools/refs/heads/main/movie-tools.js
+https://maxbox39.github.io/movie-tools/movie-tools.js
 
 3. Перезапусти Lampa.
 
